@@ -1,0 +1,16 @@
+{
+    "name": "tasbe7",
+    "version": "1.0.0",
+    "description": "chatbot app for prayer and Doaa dedicated to my father soul",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ali Shaltout",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.2",
+        "request": "^2.83.0"
+    }
+}
